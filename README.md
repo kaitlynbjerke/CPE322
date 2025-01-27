@@ -1,7 +1,6 @@
 # Engineering Design IV
 ## CPE322, Spring 2025
-### Taught by Dr. Kevin Lu
-**Kaitlyn Bjerke** *, Electrical Engineering*
+### **Kaitlyn Bjerke** *, Electrical Engineering*
 
 > The engineer has been, and is, a maker of history.
 - James Kip Finch
