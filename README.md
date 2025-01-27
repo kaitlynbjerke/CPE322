@@ -2,11 +2,12 @@
 ## CPE322, Spring 2025
 ### Taught by Dr. Kevin Lu
 **Kaitlyn Bjerke** *, Electrical Engineering*
----
+
 > The engineer has been, and is, a maker of history.
 - James Kip Finch
 
 **Projects**
+---
 1. Assignment 0, *Github Repository*
 2. Assignment 1, *Team Project Site*
 3. Assignment 2, *Needs Assessment*
