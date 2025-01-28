@@ -7,7 +7,7 @@
 
 **Projects**
 ---
-1. Assignment 0, *Github Repository*
+1. Assignment 0, *GitHub Repository*
 2. Assignment 1, *Team Project Site*
 3. Assignment 2, *Needs Assessment*
 4. Assignment 3, *Problem Formulation*
