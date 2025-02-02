@@ -1,4 +1,4 @@
-# Engineering Design IV
+# Engineering Design VI
 ## CPE322, Spring 2025
 ### **Kaitlyn Bjerke** *, Electrical Engineering*
 
