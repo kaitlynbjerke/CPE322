@@ -22,7 +22,7 @@
 
 In this class, we are going to use `Python`
 
-Team link: [Our Website]((https://sites.google.com/stevens.edu/cpe-322-group-2/home)
+Team link: [Our Website](https://sites.google.com/stevens.edu/cpe-322-group-2/home)
 
 About Me
 ---
