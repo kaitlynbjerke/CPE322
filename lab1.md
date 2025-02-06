@@ -25,8 +25,13 @@ For this lab, I decided to run the **half adder** and **multiplexer** examples.
 Half Adder
 ---
 **Main Code:**
+
 ![Main Code](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-05%20173131.png)
+
 **Test Code:**
+
 ![Test Code](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-05%20173123.png)
+
 **Wave Output:**
+
 ![GTKWave](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-05%20173107.png)
