@@ -40,3 +40,6 @@ Half Adder
 Half adders simply add the bits inputted (A and B).
 - The sum equals 1 if either A or B equal 1, but not both (XOR)
 - The carry-out equals 1 if *BOTH* A and B equal 1 (AND)
+
+**Wave Interpretation:** As seen in the generated wave, the code performs as it should
+- When
