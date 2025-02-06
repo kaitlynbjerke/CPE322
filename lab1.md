@@ -82,3 +82,8 @@ Multiplexer
 Command Prompt
 ---
 ![Command Prompt](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-05%20173155.png)
+*Note: These commands are for the half adder example, however the same commands were also used for multiplexer*
+
+- Before these commands, I also changed directory to the folder of my code files.
+- The beginning prompts are meant to check the syntax of my code, analyze it, create executable files, and run it.
+- Additionally, I created a dumpfile (ha.vcd), and ran it in GTKWave. This created the plots, as shown above.
