@@ -35,3 +35,8 @@ Half Adder
 **Wave Output:**
 
 ![GTKWave](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-05%20173107.png)
+
+**Behavior of a Half Adder:**
+Half adders simply add the bits inputted (A and B).
+- The sum equals 1 if either A or B equal 1, but not both (XOR)
+- The carry-out equals 1 if *BOTH* A and B equal 1 (AND)
