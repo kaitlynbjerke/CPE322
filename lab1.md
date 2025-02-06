@@ -68,3 +68,13 @@ Multiplexer
 - Multiple input signals are sent into the multiplexer (in this case, 4 signals)
 - Separate control signals determine which input is sent through to the output
 - Only one input signals gets sent through to the output (4:1 MUX)
+
+**Explanation of Binary**
+- Two bits of binary can result in four distinct numbers
+- 00 = 0, 01 = 1, 10 = 2, 11 = 3
+
+**Wave Interpretation**
+- When s0=s1=0, the first input is sent through to the output (a=1), as indicated by the high signal
+- When s0=1 and s1=0, the second input is sent through to the output (b=0), as indicated by the low signal
+- When s0=0 and s1=1, the third input is sent through to the output (c=1), as indicated by the high signal
+- When s0=s1=1, the fourth input is sent through to the output (d=0), as indicated by the low signal
