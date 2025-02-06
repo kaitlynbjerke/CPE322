@@ -46,3 +46,25 @@ Half adders simply add the bits inputted (A and B).
 - When A=1 and B=0, the sum equals 1 and the carry-out equals 0
 - When A=0 and B=1, the sum equals 1 and the carry-out equals 0
 - When A=B=1, the sum equals 0 and the carry-out equals 1
+
+Multiplexer
+---
+**Main Code:**
+
+![Main Code](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-06%20140003.png)
+
+**Test Code:**
+
+![Test Code](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-06%20140206.png)
+
+**Wave Output:**
+
+![GTKWave1](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-06%20103928.png)
+![GTKWave2](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-06%20103918.png)
+![GTKWave3](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-06%20103906.png)
+![GTKWave4](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-06%20103856.png)
+
+**Behavior of a Multiplexer**
+- Multiple input signals are sent into the multiplexer (in this case, 4 signals)
+- Separate control signals determine which input is sent through to the output
+- Only one input signals gets sent through to the output (4:1 MUX)
