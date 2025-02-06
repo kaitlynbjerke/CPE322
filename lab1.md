@@ -24,4 +24,4 @@ For this lab, I decided to run the **half adder** and **multiplexer** examples.
 
 Half Adder
 ---
-![code](Images/Screenshot 2025-02-05 173107.png)
+![code](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-05%20173107.png)
