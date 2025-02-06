@@ -6,3 +6,9 @@
 In this lab, we were tasked with downloading GHDL and GTKWave, and analyzing the behavior of different circuit element.
 
 For this lab, I decided to run the **half adder** and **multiplexer** examples.
+
+**Resources Used:** [dsd GitHub](https://github.com/kevinwlu/dsd/tree/master/ghdl), [GHDL/GTKWave Tutorial](https://www.youtube.com/watch?v=H2GyAIYwZbw)
+
+Half Adder
+---
+
