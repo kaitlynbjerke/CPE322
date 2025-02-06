@@ -78,3 +78,7 @@ Multiplexer
 - When s0=1 and s1=0, the second input is sent through to the output (b=0), as indicated by the low signal
 - When s0=0 and s1=1, the third input is sent through to the output (c=1), as indicated by the high signal
 - When s0=s1=1, the fourth input is sent through to the output (d=0), as indicated by the low signal
+
+Command Prompt
+---
+![Command Prompt](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-05%20173155.png)
