@@ -4,7 +4,7 @@
 ---
 **Description:** for this lab, we were tasked to practice **Bash** commands using the **Git Bash** terminal. We learned what the different commands do and how to use them
 
-Resources used: I used a variety of resources to aid my in the project, including [Geeks for Geeks](https://www.geeksforgeeks.org/) and [Stack Overflow](https://stackoverflow.com/questions)
+**Resources Used:** I used a variety of resources to aid my in the project, including [Geeks for Geeks](https://www.geeksforgeeks.org/) and [Stack Overflow](https://stackoverflow.com/questions)
 
 hostname
 --
