@@ -8,7 +8,7 @@
 
 hostname
 --
-A **hostname** is a name given to a computer to identify it over a network. Usaing this command tells us what our hostname is.
+A **hostname** is a name given to a computer to identify it over a network. Using this command tells us what our hostname is.
 ![hostname](https://github.com/kaitlynbjerke/Images/blob/main/hostname.png)
 
 env
