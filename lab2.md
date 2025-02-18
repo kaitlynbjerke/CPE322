@@ -39,7 +39,7 @@ cd means "change directory". This command changed the directory to the iot git r
 
 ls
 --
-la lists all the files of the current directory.
+ls lists all the files of the current directory.
 ![ls](https://github.com/kaitlynbjerke/Images/blob/main/ls.png)
 
 cd
