@@ -69,7 +69,7 @@ This command opens a text editor from the terminal.
 
 cat file
 --
-The cat command has multiple uses, including to read, concatenate, and writes files. In this case, it is reading the contents of the "file" text file.
+The cat command has multiple uses, including to read, concatenate, and write files. In this case, it is reading the contents of the "file" text file.
 ![cat](https://github.com/kaitlynbjerke/Images/blob/main/cat_file.png)
 
 cp file file1
