@@ -54,12 +54,18 @@ This function outputs the phases of the moon for the next month. 27 indicates a 
 
 python3 coordinates.py "Samuel C. Williams Library"
 ---
+This outputs the coordinates of an inputted location. However, when I initially tried to run this program, I kept getting a "certificate verification failed" error. After attempting multiple solutions, I decided to edit the code to fix the problem. With help from ChatGPT, I rewrote a part of the source code in order to implement SSL context verification. After that, the code ran successfully.
+
+**coordinates.py output:**
 ![coordinates](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinates.png)
+**Original coordinates code**
 ![coordinatesOG](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesOG.png)
+**Edited coordinates code**
 ![coordinatesNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesNew.png)
 
 python3 address.py "40.74480675, -74.02532861159351"
 ---
+This code outputs an address that corresponds to longitude/latitude coordinates. I faced a similar issue for this code, so, using what I learned from the coordinates code, I altered the address.py code accordingly. After revising the code, the function resulted in the expected output. 
 ![address](https://github.com/kaitlynbjerke/Images/blob/main/lab3/address.png)
 ![addressNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/addressNew.png)
 
