@@ -18,7 +18,7 @@ This changes the directory to the third file in the current directory, which is 
 
 python3 julian.py
 ---
-The Julian date is how many days have passed since the start of the Julian period, which marks the alignment of the Indictment, Solar, and Lunas cycles.
+The Julian date is how many days have passed since the start of the Julian period, which marks the alignment of the Indictment, Solar, and Lunar cycles.
 ![julian](https://github.com/kaitlynbjerke/Images/blob/main/lab3/julian.png)
 
 python3 date_example.py
