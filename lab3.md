@@ -39,6 +39,7 @@ This function outputs the time in increments of 10 seconds.
 python3 sun.py "New York"
 ---
 When I initially tried to run this function, it outputed an error message that I was missing the **Pytz** library, which helps manage timezone calculations. Thus, I had to download the Pytz library, which then allowed me to run sun.py without any errors. This function shows the time of dawn, sunrise, noon, sunset, and dusk at your respective location.
+
 **Initial error message:**
 ![sun_error](https://github.com/kaitlynbjerke/Images/blob/main/lab3/sun_error.png)
 **Pytz installation:**
