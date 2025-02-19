@@ -74,7 +74,7 @@ This code outputs an address that corresponds to longitude/latitude coordinates.
 
 python3 cpu.py
 ---
-This original code did not work on my computer. I kept getting an error about needing the "psutil" library. After two hours of unsuccessfully trying to download the library, I decided to alter the original code to not require the psutil library. I input the code into ChatGPT, and went through many iterations until it output a working program. The function output the number of physical cores, the number of logical cores, and the percentage of the cpu being utilized.
+This original code did not work on my computer. I kept getting an error about needing the "psutil" library. After two hours of unsuccessfully trying to download the library, I decided to alter the original code to not require the psutil library. I input the code into ChatGPT, and went through many iterations until it output a working program. The function outputs the number of physical cores, the number of logical cores, and the percentage of the cpu being utilized.
 
 **cpu.py output:**
 ![cpu](https://github.com/kaitlynbjerke/Images/blob/main/lab3/cpu.png)
