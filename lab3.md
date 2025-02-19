@@ -49,6 +49,7 @@ When I initially tried to run this function, it outputed an error message that I
 
 python3 moon.py
 ---
+This function outputs the phases of the moon for the next month. 27 indicates a new moon while 14 indicates a full moon.
 ![moon](https://github.com/kaitlynbjerke/Images/blob/main/lab3/moon.png)
 
 python3 coordinates.py "Samuel C. Williams Library"
