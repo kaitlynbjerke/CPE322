@@ -58,29 +58,41 @@ This outputs the coordinates of an inputted location. However, when I initially 
 
 **coordinates.py output:**
 ![coordinates](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinates.png)
-**Original coordinates code**
+**Original coordinates code:**
 ![coordinatesOG](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesOG.png)
-**Edited coordinates code**
+**Edited coordinates code:**
 ![coordinatesNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesNew.png)
 
 python3 address.py "40.74480675, -74.02532861159351"
 ---
 This code outputs an address that corresponds to longitude/latitude coordinates. I faced a similar issue for this code, so, using what I learned from the coordinates code, I altered the address.py code accordingly. After revising the code, the function resulted in the expected output. 
+
+**address.py output:**
 ![address](https://github.com/kaitlynbjerke/Images/blob/main/lab3/address.png)
+**Edited address code:**
 ![addressNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/addressNew.png)
 
 python3 cpu.py
 ---
+This original code did not work on my computer. I kept getting an error about needing the "psutil" library. After two hours of unsuccessfully trying to download the library, I decided to alter the original code to not require the psutil library. I input the code into ChatGPT, and went through many iterations until it output a working program. The function output the number of physical cores, the number of logical cores, and the percentage of the cpu being utilized.
+
+**cpu.py output:**
 ![cpu](https://github.com/kaitlynbjerke/Images/blob/main/lab3/cpu.png)
+**Edited cpu code:**
 ![cpuNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/cpuNew.png)
 
 python3 battery.py
 ---
+This code shows the current battery information of your machine. Again, this code did not function properly due to the missing psutil library. Thus, I had ChatGPT alter the code to not include the psutil library. The resulting output was different than the expected output. Rather than simply outputting the battery information in the terminal, the new code resulted in the creation of an HTML file than includes a full Battery report.
+
+**battery.py terminal output:** generates the battery report
 ![battery](https://github.com/kaitlynbjerke/Images/blob/main/lab3/battery.png)
-![startBattery](https://github.com/kaitlynbjerke/Images/blob/main/lab3/battery_start.png)
+**Battery report:** *Note: the entire battery report spans much longer, but this is just a snippet of it*
 ![batteryHTML](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-18%20194953.png)
+**Edited battery code:**
 ![batteryNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/batteryNew.png)
 
 python3 documentstats.py document.txt
 ---
+This function shows information regarding the "document.txt" file, including word count and most used words.
 ![docstats](https://github.com/kaitlynbjerke/Images/blob/main/lab3/documentstats.png)
