@@ -8,10 +8,12 @@
 
 cd ~/iot
 ---
+This command changes the directory to the iot github
 ![cd_iot](https://github.com/kaitlynbjerke/Images/blob/main/lab3/cd_iot%20(2).png)
 
 cd *3
 ---
+This changes the directory to the third file in the current directory, which is the lesson 3 file
 ![cd3](https://github.com/kaitlynbjerke/Images/blob/main/lab3/cd3.png)
 
 python3 julian.py
@@ -43,8 +45,8 @@ python3 moon.py
 python3 coordinates.py "Samuel C. Williams Library"
 ---
 ![coordinates](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinates.png)
-![coordinatesNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesNew.png)
 ![coordinatesOG](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesOG.png)
+![coordinatesNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesNew.png)
 
 python3 address.py "40.74480675, -74.02532861159351"
 ---
