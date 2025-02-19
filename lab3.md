@@ -94,5 +94,5 @@ This code shows the current battery information of your machine. Again, this cod
 
 python3 documentstats.py document.txt
 ---
-This function shows information regarding the "document.txt" file, including word count and most used words.
+This function shows information regarding the "document.txt" file (The Declaration of Independence), including word count and most used words.
 ![docstats](https://github.com/kaitlynbjerke/Images/blob/main/lab3/documentstats.png)
