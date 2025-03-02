@@ -6,6 +6,7 @@
 
 **Lab Setup:** To prepare for this lab, I had to install Node.js and Pystache. To install Node.js, I downloaded the Windows installer. On the other hand, to install Pystache, I used the terminal command: `pip install pystache`
 
+##Node.js
 hello_world.js
 --
 This code prints out "Hello World!" on a web page. The output to the terminal is the link to the webpage.
@@ -26,6 +27,7 @@ This program counts the amount of times the generated webpage is refreshed. The 
 ![http_web](https://github.com/kaitlynbjerke/Images/blob/main/http_web.png)
 ![http](https://github.com/kaitlynbjerke/Images/blob/main/http.js.png)
 
+##Pystache
 say_hello.py
 --
 This command uses the template of say_hello.mustache in order to print out a variety of "Hello __" messages.
