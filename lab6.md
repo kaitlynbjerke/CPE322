@@ -8,7 +8,7 @@
 
 hello_world.js
 --
-This code prints out "Hello World!" on a web page. The link to the webpage is output to the terminal.
+This code prints out "Hello World!" on a web page. The output to the terminal is the link to the webpage.
 
 ![hello_world_web](https://github.com/kaitlynbjerke/Images/blob/main/hello_world_web.png)
 ![hello_world](https://github.com/kaitlynbjerke/Images/blob/main/hello_world.js.png)
