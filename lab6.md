@@ -4,7 +4,7 @@
 ---
 **Description:** For this lab, we had to use Node.js and Pystache. Node.js is a JavaScript runtime environment, typically used for web development. Pystache is a python-implementation of mustache, which is a web template system typically used for creating HTML files.
 
-**Lab Setup:** To prepare for this lab, I had to install Node.js and Pystache. To install Node.js, I downloaded the Windows installer. On the other hand, to install Pystache, I used the terminal command: 'pip install pystache'
+**Lab Setup:** To prepare for this lab, I had to install Node.js and Pystache. To install Node.js, I downloaded the Windows installer. On the other hand, to install Pystache, I used the terminal command: `pip install pystache`
 
 hello_world.js
 --
