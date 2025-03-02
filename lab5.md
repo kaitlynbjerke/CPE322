@@ -1,4 +1,4 @@
-# Lab 4 - Paho-MQTT
+# Lab 5 - Paho-MQTT
 ## Kaitlyn Bjerke
 ### I pledge my honor that I have abided by the Stevens honor system - *Kaitlyn Bjerke*
 ---
