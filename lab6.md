@@ -30,7 +30,7 @@ This program counts the amount of times the generated webpage is refreshed. The 
 ![http](https://github.com/kaitlynbjerke/Images/blob/main/http.js.png)
 
 ## Pystache
-Before executing the following code, I also ran the following commands: `cat say_hello.mustache` and `cat say_hello.py`. This allows us to read the mustache template and the python script beforehand.
+Before executing the following code, I also ran the commands, `cat say_hello.mustache` and `cat say_hello.py`. This allows us to read the mustache template and the python script beforehand.
 
 say_hello.py
 --
