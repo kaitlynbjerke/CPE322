@@ -1,4 +1,4 @@
-# Lab 4 - ThingSpeak and Google Sheets 
+# Lab 7 - ThingSpeak and Google Sheets 
 ## Kaitlyn Bjerke
 ### I pledge my honor that I have abided by the Stevens honor system - *Kaitlyn Bjerke*
 ---
