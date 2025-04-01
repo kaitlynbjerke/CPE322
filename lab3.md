@@ -60,6 +60,7 @@ This outputs the coordinates of an inputted location in terms of town, county, s
 python3 address.py "40.74480675, -74.02532861159351"
 ---
 This code outputs an address that corresponds to longitude/latitude coordinates. In this case, we input the coordinates of the Samuel C Williams Library.
+
 ![address](https://github.com/kaitlynbjerke/Images/blob/main/address.py.png)
 
 python3 cpu.py
