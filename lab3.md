@@ -54,43 +54,23 @@ This function outputs the phases of the moon for the next month. 27 indicates a 
 
 python3 coordinates.py "Samuel C. Williams Library"
 ---
-This outputs the coordinates of an inputted location. However, when I initially tried to run this program, I kept getting a "certificate verification failed" error. After attempting multiple solutions, I decided to edit the code to fix the problem. With help from ChatGPT, I rewrote a part of the source code in order to implement SSL context verification. After that, the code ran successfully.
-
-**coordinates.py output:**
-![coordinates](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinates.png)
-**Original coordinates code:**
-![coordinatesOG](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesOG.png)
-**Edited coordinates code:**
-![coordinatesNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/coordinatesNew.png)
+This outputs the coordinates of an inputted location in terms of town, county, state, zip code, country, and longitude/latitude.
+![coordinates](https://github.com/kaitlynbjerke/Images/blob/main/coordinates.py.png)
 
 python3 address.py "40.74480675, -74.02532861159351"
 ---
-This code outputs an address that corresponds to longitude/latitude coordinates. I faced a similar issue for this code, so, using what I learned from the coordinates code, I altered the address.py code accordingly. After revising the code, the function resulted in the expected output. 
-
-**address.py output:**
-![address](https://github.com/kaitlynbjerke/Images/blob/main/lab3/address.png)
-**Edited address code:**
-![addressNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/addressNew.png)
+This code outputs an address that corresponds to longitude/latitude coordinates. In this case, we input the coordinates of the Samuel C Williams Library.
+![address](https://github.com/kaitlynbjerke/Images/blob/main/address.py.png)
 
 python3 cpu.py
 ---
-This original code did not work on my computer. I kept getting an error about needing the "psutil" library. After two hours of unsuccessfully trying to download the library, I decided to alter the original code to not require the psutil library. I input the code into ChatGPT, and went through many iterations until it output a working program. The function outputs the number of physical cores, the number of logical cores, and the percentage of the cpu being utilized.
-
-**cpu.py output:**
-![cpu](https://github.com/kaitlynbjerke/Images/blob/main/lab3/cpu.png)
-**Edited cpu code:**
-![cpuNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/cpuNew.png)
+This function outputs the number of physical cores, the number of logical cores, and the percentage of the cpu being utilized.
+![cpu](https://github.com/kaitlynbjerke/Images/blob/main/cpu.py.png)
 
 python3 battery.py
 ---
-This code shows the current battery information of your machine. Again, this code did not function properly due to the missing psutil library. Thus, I had ChatGPT alter the code to not include the psutil library. The resulting output was different than the expected output. Rather than simply outputting the battery information in the terminal, the new code resulted in the creation of an HTML file than includes a full Battery report.
-
-**battery.py terminal output:** generates the battery report
-![battery](https://github.com/kaitlynbjerke/Images/blob/main/lab3/battery.png)
-**Battery report:** *Note: the entire battery report spans much longer, but this is just a snippet of it*
-![batteryHTML](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-02-18%20194953.png)
-**Edited battery code:**
-![batteryNew](https://github.com/kaitlynbjerke/Images/blob/main/lab3/batteryNew.png)
+This code shows the current battery information of your machine, including pecerntage remaining and time left.
+![battery](https://github.com/kaitlynbjerke/Images/blob/main/battery.py.png)
 
 python3 documentstats.py document.txt
 ---
