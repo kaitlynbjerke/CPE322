@@ -27,6 +27,8 @@ Output:
 
 ![terraOut](https://github.com/kaitlynbjerke/Images/blob/main/qiskit_terra.png)
 
+The output shows the frequency of the possible states of the qubits (or quantum bits). Thus, the number next to the bit stats ('00', '11') shows how many times that state was measured when we sampled.
+
 Other Examples
 ---
 I have attempted other examples, however I still have not gotten them properly working yet.
