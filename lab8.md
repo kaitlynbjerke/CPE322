@@ -38,7 +38,7 @@ Scatterplot:
 
 Time-Series Plot:
 
-![line](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-04-28%20113948.png)
+![line](https://github.com/kaitlynbjerke/Images/blob/main/Screenshot%202025-04-28%20150210.png)
 
 **plt_cv2.py:** This function output one single plot: Memory Available vs. Predicted Value
 
